@@ -1,2 +1,2 @@
 # SoftwareEngineer
-for 202 work
+This prio is for SE project, there are 4 main member in our team
